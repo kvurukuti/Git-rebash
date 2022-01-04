@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 about page
+=======
+about page wrote in the master branch
+
+editing in the master branch |   hi hello
+>>>>>>> de9423a (updated about page)
